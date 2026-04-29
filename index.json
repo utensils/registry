@@ -3530,9 +3530,9 @@
       "sound_count": 24,
       "total_size_bytes": 621715,
       "source_repo": "utensils/openpeon-elise-soundpack",
-      "source_ref": "7fce074ffc29ed33f4401ee4bfba0a6697b1fd1f",
+      "source_ref": "54ba1c71c590d0f8e6512b0fc93c7fcf7a6dfb24",
       "source_path": ".",
-      "manifest_sha256": "dda9192e7114fb0de7a62d8a010687eaf9e43f65ff96c0c9bd497371d031e6a3",
+      "manifest_sha256": "0cc2fb59b1ea58ca6c791b556bbf561b802edd56a22a7938bff9619bdac80c58",
       "tags": [
         "tts",
         "elevenlabs",
